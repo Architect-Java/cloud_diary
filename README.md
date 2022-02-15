@@ -55,8 +55,19 @@ cloud-diary
 ### 快速开始
 Docker环境安装：[https://www.zrkizzy.com/archives/docker-install](https://www.zrkizzy.com/archives/docker-install)  
 Docker部署配置：  
-**在服务器中安装好Docker和Docker-compose后即可进行接下来的操作**
-
+**服务器中安装好Docker和Docker-compose后即可进行接下来的操作**
+- 在服务器中输入```su```命令并输入密码后切换到root用户
+- 输入命令```cd home```跳转到home目录下
+- 输入命令```mkdir cloud-diary```创建项目运行的目录
+- 跳转到项目运行根目录```cd cloud-diary```
+- 此时将项目文件中的```doc/docker```目录下的```docker-compose.yml```文件传输到服务器当前位置
+- 执行命令```mkdir mysql-init```命令创建MySQL初始化目录
+- 执行命令```cd mysql-init```跳转到MySQL初始化目录并将项目中的```doc/sql```目录下的mydiary.sql文件传输到服务器当前位置
+- 执行命令```cd ../```退出MySQL初始化目录，输入命令```mkdir webapps```命令创建存放项目war包的目录
+- 进入到webapps目录中```cd webapps```，将项目文件中的```doc/war```目录下的ROOT.war文件添加到服务器当前位置后执行```cd ../```命令返回上一级目录
+- 执行命令```docker-compose up```命令即可启动项目
+- 项目启动后，在浏览器中输入```http://服务器公网IP:8080/login.jsp```即可访问项目
+- 初始用户名admin，初始密码：123456
 
 
 ### 项目总结
