@@ -55,7 +55,7 @@ cloud-diary
 ### 快速开始
 Docker环境安装：[https://www.zrkizzy.com/archives/docker-install](https://www.zrkizzy.com/archives/docker-install)  
 Docker部署配置：  
-在服务器中安装好Docker和Docker-compose后即可进行接下来的操作  
+**在服务器中安装好Docker和Docker-compose后即可进行接下来的操作**
 
 
 

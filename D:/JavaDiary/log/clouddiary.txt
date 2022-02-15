@@ -1,0 +1,2 @@
+2022-02-15 18:52:55 [ main:0 ] - [ INFO ] 获取数据库连接：com.mysql.cj.jdbc.ConnectionImpl@7181ae3f
+2022-02-15 18:52:55 [ main:8 ] - [ DEBUG ] 获取数据库com.mysql.cj.jdbc.ConnectionImpl@76a4d6c的连接：

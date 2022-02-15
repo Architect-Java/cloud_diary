@@ -109,7 +109,9 @@
     </dependencies>
 
     <build>
-        <finalName>cloud-diary</finalName>
+        <!-- 在这里定义打包后的名称，如果名称为ROOT则可以直接进行http://ip地址+端口号/login.jsp进行访问 -->
+        <!-- 如果名称不为ROOT则可以直接进行http://ip地址+端口号/finalName/login.jsp进行访问 -->
+        <finalName>ROOT</finalName>
         <plugins>
             <!--  编译环境插件  -->
             <plugin>
