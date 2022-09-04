@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7fb054-3993-40b7-aa62-6e88778b434e" name="Changes" comment="">
+    <list default="true" id="cb7fb054-3993-40b7-aa62-6e88778b434e" name="Changes" comment="docs(README.md): 更新README.md文件&#10;&#10;1. 更新项目README文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +84,16 @@
       <workItem from="1660675327398" duration="107000" />
       <workItem from="1661414909309" duration="9000" />
       <workItem from="1662016323192" duration="6000" />
-      <workItem from="1662286502414" duration="2495000" />
+      <workItem from="1662286502414" duration="3308000" />
     </task>
+    <task id="LOCAL-00001" summary="docs(README.md): 更新README.md文件&#10;&#10;1. 更新项目README文件">
+      <created>1662289090310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662289090310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs(README.md): 更新README.md文件&#10;&#10;1. 更新项目README文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs(README.md): 更新README.md文件&#10;&#10;1. 更新项目README文件" />
   </component>
 </project>

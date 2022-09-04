@@ -1,6 +1,6 @@
 ## 项目介绍
 
-<div style="text-align: center">
+<div align="center">
     <img src="https://z3.ax1x.com/2021/06/29/RdO4fO.jpg" width="200px">
 
 
