@@ -1,12 +1,18 @@
 ## 项目介绍
 
-<img src="https://z3.ax1x.com/2021/06/29/RdO4fO.jpg" width="200px">
+<div style="text-align: center">
+    <img src="https://z3.ax1x.com/2021/06/29/RdO4fO.jpg" width="200px">
+
+
+  ![](https://img.shields.io/badge/MySQL-8.0.13-brightgreen) ![](https://img.shields.io/badge/lombok-1.18.16-yellow) ![](https://img.shields.io/badge/Java-1.8-green) ![](https://img.shields.io/badge/Servlet-4.0.1-red) ![](https://img.shields.io/badge/fastjson-1.2.72-orange) ![](https://img.shields.io/badge/commons--io-2.4-lightgrey)  
+
+</div>
 
 基于JavaServlet开发的个人云日记项目
 
 ### 演示地址
 
-项目地址：[http://101.201.232.79:8080/login.jsp](http://101.201.232.79:8080/login.jsp)  
+项目地址：~~http://101.201.232.79:8080/login.jsp~~ （服务器已过期）  
 账号：admin，密码：123456  
 （由于域名用于个人博客项目，当前项目没有使用域名，当前项目仅使用IP地址进行访问）
 
